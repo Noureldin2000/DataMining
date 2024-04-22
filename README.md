@@ -1,5 +1,3 @@
-# Markdown Example
-
 ## Headers
 ### DATA MINING
 
