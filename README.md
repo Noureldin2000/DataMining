@@ -30,7 +30,7 @@
 The equation for the area of a square is given by \( A = \L*4 \)
 
 ## In-line Code
-You can use backticks to highlight `inline code` within a sentence.
+Test to highlight `inline code` within a sentence.
 
 ## Code Block
 ```python
